@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Jan &#34;Yenda&#34; Trmal</title>
+    <link>/publication_types/4/</link>
+    <description>Recent content in 4 on Jan &#34;Yenda&#34; Trmal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 05 May 2016 20:35:46 -0400</lastBuildDate>
+    
+	<atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Speech Recognition System from Untranscribed Data: Report from JHU Workshop 2016</title>
+      <link>/publication/2016_burget_building/</link>
+      <pubDate>Thu, 05 May 2016 20:35:46 -0400</pubDate>
+      
+      <guid>/publication/2016_burget_building/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
