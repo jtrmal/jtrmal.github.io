@@ -11,12 +11,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The MIT Lincoln Laboratory / JHU / EPITA-LSE LRE17 System</title>
-      <link>/publication/2018_richardson_mit/</link>
-      <pubDate>Fri, 04 May 2018 21:45:59 -0400</pubDate>
+      <title>On the Use of Grapheme Models for Searching in Large Spoken Archives</title>
+      <link>/publication/2018_svec_use/</link>
+      <pubDate>Sun, 06 May 2018 14:27:25 -0400</pubDate>
       
-      <guid>/publication/2018_richardson_mit/</guid>
+      <guid>/publication/2018_svec_use/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;@article{2622-18,
+url = {http://sigport.org/2622},
+author = {Jan Švec; Josef V. Psutka; Jan Trmal; Luboš Šmídl; Pavel Ircing; Jan Sedmidubsky },
+publisher = {IEEE SigPort},
+title = {On the use of grapheme models for searching in large spoken archives},
+year = {2018} }
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JHU-CLSP System Description for OpenSAT 2017 Evaluation</title>
+      <link>/publication/2017_manohar_jhu-clsp/</link>
+      <pubDate>Sat, 06 May 2017 13:50:15 -0400</pubDate>
+      
+      <guid>/publication/2017_manohar_jhu-clsp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Using of heterogeneous corpora for training of an ASR system</title>
+      <link>/publication/2017_trmal_using/</link>
+      <pubDate>Sat, 06 May 2017 13:39:11 -0400</pubDate>
+      
+      <guid>/publication/2017_trmal_using/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;@article{DBLP:journals/corr/TrmalKMKPM17,
+  author    = {Jan Trmal and
+               Gaurav Kumar and
+               Vimal Manohar and
+               Sanjeev Khudanpur and
+               Matt Post and
+               Paul McNamee},
+  title     = {Using of heterogeneous corpora for training of an {ASR} system},
+  journal   = {CoRR},
+  volume    = {abs/1706.00321},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1706.00321},
+  archivePrefix = {arXiv},
+  eprint    = {1706.00321},
+  timestamp = {Mon, 03 Jul 2017 13:29:02 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/TrmalKMKPM17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>

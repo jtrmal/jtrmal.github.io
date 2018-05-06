@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 05 May 2016 20:35:46 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 13:50:15 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JHU-CLSP System Description for OpenSAT 2017 Evaluation</title>
+      <link>/publication/2017_manohar_jhu-clsp/</link>
+      <pubDate>Sat, 06 May 2017 13:50:15 -0400</pubDate>
+      
+      <guid>/publication/2017_manohar_jhu-clsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using of heterogeneous corpora for training of an ASR system</title>
+      <link>/publication/2017_trmal_using/</link>
+      <pubDate>Sat, 06 May 2017 13:39:11 -0400</pubDate>
+      
+      <guid>/publication/2017_trmal_using/</guid>
+      <description>@article{DBLP:journals/corr/TrmalKMKPM17, author = {Jan Trmal and Gaurav Kumar and Vimal Manohar and Sanjeev Khudanpur and Matt Post and Paul McNamee}, title = {Using of heterogeneous corpora for training of an {ASR} system}, journal = {CoRR}, volume = {abs/1706.00321}, year = {2017}, url = {http://arxiv.org/abs/1706.00321}, archivePrefix = {arXiv}, eprint = {1706.00321}, timestamp = {Mon, 03 Jul 2017 13:29:02 +0200}, biburl = {https://dblp.org/rec/bib/journals/corr/TrmalKMKPM17}, bibsource = {dblp computer science bibliography, https://dblp.org} }  </description>
+    </item>
     
     <item>
       <title>Building Speech Recognition System from Untranscribed Data: Report from JHU Workshop 2016</title>
