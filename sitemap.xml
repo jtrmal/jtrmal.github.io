@@ -4,8 +4,64 @@
     
     <url>
     
+      <loc>/talk/2018_spice_workshop/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/2018_intent_bear/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_hadian_improving/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_liu_lowresource/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/2018_svec_use/</loc>
-      <lastmod>2018-05-06T14:27:25-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_wiesner_automatic/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_smidl_semisupervised/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_barker_fifth/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -13,7 +69,7 @@
     <url>
     
       <loc>/publication/2017_manohar_jhu-clsp/</loc>
-      <lastmod>2017-05-06T13:50:15-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -21,7 +77,7 @@
     <url>
     
       <loc>/publication/2017_trmal_using/</loc>
-      <lastmod>2017-05-06T13:39:11-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -29,7 +85,7 @@
     <url>
     
       <loc>/publication/2017_hannemann_bayesian/</loc>
-      <lastmod>2017-05-05T20:46:08-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -37,7 +93,7 @@
     <url>
     
       <loc>/publication/2017_liu_topic/</loc>
-      <lastmod>2017-05-05T20:22:22-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -45,7 +101,7 @@
     <url>
     
       <loc>/publication/2017_svec_relevance/</loc>
-      <lastmod>2017-05-05T20:16:24-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -53,7 +109,7 @@
     <url>
     
       <loc>/publication/2017_trmal_kaldi/</loc>
-      <lastmod>2017-05-05T20:02:05-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -61,7 +117,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -69,7 +125,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -77,7 +133,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -85,7 +141,7 @@
     <url>
     
       <loc>/publication/2016_burget_building/</loc>
-      <lastmod>2016-05-05T20:35:46-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -93,7 +149,7 @@
     <url>
     
       <loc>/publication/2016_chodroff_new/</loc>
-      <lastmod>2016-05-05T20:35:46-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
     </url>
     
   
@@ -101,7 +157,16 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2018-05-06T14:27:25-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -110,7 +175,16 @@
     <url>
     
       <loc>/publication_types/4/</loc>
-      <lastmod>2017-05-06T13:50:15-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/7/</loc>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -127,7 +201,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2018-04-21T19:55:36-05:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -136,7 +210,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-05-06T14:27:25-04:00</lastmod>
+      <lastmod>2018-11-19T22:52:54-05:00</lastmod>
       <priority>0</priority>
     </url>
     

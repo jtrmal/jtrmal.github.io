@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> IMPROVING LF-MMI USING UNCONSTRAINED SUPERVISIONS FOR ASR</title>
+      <link>/publication/2018_hadian_improving/</link>
+      <pubDate>Thu, 04 Oct 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_hadian_improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOW-RESOURCE CONTEXTUAL TOPIC IDENTIFICATION ON SPEECH</title>
+      <link>/publication/2018_liu_lowresource/</link>
+      <pubDate>Thu, 04 Oct 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_liu_lowresource/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Use of Grapheme Models for Searching in Large Spoken Archives</title>
@@ -18,7 +36,34 @@
       <pubDate>Sun, 06 May 2018 14:27:25 -0400</pubDate>
       
       <guid>/publication/2018_svec_use/</guid>
-      <description>@article{2622-18, url = {http://sigport.org/2622}, author = {Jan Švec; Josef V. Psutka; Jan Trmal; Luboš Šmídl; Pavel Ircing; Jan Sedmidubsky }, publisher = {IEEE SigPort}, title = {On the use of grapheme models for searching in large spoken archives}, year = {2018} }  </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Speech Recognition and Topic Identification for Almost-Zero-Resource Languages</title>
+      <link>/publication/2018_wiesner_automatic/</link>
+      <pubDate>Fri, 04 May 2018 21:38:12 -0400</pubDate>
+      
+      <guid>/publication/2018_wiesner_automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Training of DNN-Based Acoustic Model for ATC Speech Recognition</title>
+      <link>/publication/2018_smidl_semisupervised/</link>
+      <pubDate>Fri, 04 May 2018 21:38:12 -0400</pubDate>
+      
+      <guid>/publication/2018_smidl_semisupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The fifth &#39;CHiME&#39; Speech Separation and Recognition Challenge: Dataset, task and baselines</title>
+      <link>/publication/2018_barker_fifth/</link>
+      <pubDate>Fri, 04 May 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_barker_fifth/</guid>
+      <description></description>
     </item>
     
     <item>

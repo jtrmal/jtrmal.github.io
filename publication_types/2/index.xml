@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 04 May 2018 21:45:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 May 2018 21:38:12 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The MIT Lincoln Laboratory / JHU / EPITA-LSE LRE17 System</title>
-      <link>/publication/2018_richardson_mit/</link>
-      <pubDate>Fri, 04 May 2018 21:45:59 -0400</pubDate>
+      <title>Automatic Speech Recognition and Topic Identification for Almost-Zero-Resource Languages</title>
+      <link>/publication/2018_wiesner_automatic/</link>
+      <pubDate>Fri, 04 May 2018 21:38:12 -0400</pubDate>
       
-      <guid>/publication/2018_richardson_mit/</guid>
+      <guid>/publication/2018_wiesner_automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Training of DNN-Based Acoustic Model for ATC Speech Recognition</title>
+      <link>/publication/2018_smidl_semisupervised/</link>
+      <pubDate>Fri, 04 May 2018 21:38:12 -0400</pubDate>
+      
+      <guid>/publication/2018_smidl_semisupervised/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recognizing ATC English and Airbus ATC challenge</title>
+      <link>/talk/2018_spice_workshop/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/2018_spice_workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intent-bear: A system overview for Airbus ATC Challenge</title>
+      <link>/talk/2018_intent_bear/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/2018_intent_bear/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

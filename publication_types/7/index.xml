@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Jan &#34;Yenda&#34; Trmal</title>
+    <link>/publication_types/7/</link>
+    <description>Recent content in 7 on Jan &#34;Yenda&#34; Trmal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 04 Oct 2018 21:16:12 -0400</lastBuildDate>
+    
+	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> IMPROVING LF-MMI USING UNCONSTRAINED SUPERVISIONS FOR ASR</title>
+      <link>/publication/2018_hadian_improving/</link>
+      <pubDate>Thu, 04 Oct 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_hadian_improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOW-RESOURCE CONTEXTUAL TOPIC IDENTIFICATION ON SPEECH</title>
+      <link>/publication/2018_liu_lowresource/</link>
+      <pubDate>Thu, 04 Oct 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_liu_lowresource/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

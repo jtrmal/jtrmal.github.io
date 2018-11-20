@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Recognizing ATC English and Airbus ATC challenge</title>
+      <link>/talk/2018_spice_workshop/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/2018_spice_workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intent-bear: A system overview for Airbus ATC Challenge</title>
+      <link>/talk/2018_intent_bear/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/2018_intent_bear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> IMPROVING LF-MMI USING UNCONSTRAINED SUPERVISIONS FOR ASR</title>
+      <link>/publication/2018_hadian_improving/</link>
+      <pubDate>Thu, 04 Oct 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_hadian_improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOW-RESOURCE CONTEXTUAL TOPIC IDENTIFICATION ON SPEECH</title>
+      <link>/publication/2018_liu_lowresource/</link>
+      <pubDate>Thu, 04 Oct 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_liu_lowresource/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Use of Grapheme Models for Searching in Large Spoken Archives</title>
@@ -16,14 +52,34 @@
       <pubDate>Sun, 06 May 2018 14:27:25 -0400</pubDate>
       
       <guid>/publication/2018_svec_use/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;@article{2622-18,
-url = {http://sigport.org/2622},
-author = {Jan Švec; Josef V. Psutka; Jan Trmal; Luboš Šmídl; Pavel Ircing; Jan Sedmidubsky },
-publisher = {IEEE SigPort},
-title = {On the use of grapheme models for searching in large spoken archives},
-year = {2018} }
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Speech Recognition and Topic Identification for Almost-Zero-Resource Languages</title>
+      <link>/publication/2018_wiesner_automatic/</link>
+      <pubDate>Fri, 04 May 2018 21:38:12 -0400</pubDate>
+      
+      <guid>/publication/2018_wiesner_automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Training of DNN-Based Acoustic Model for ATC Speech Recognition</title>
+      <link>/publication/2018_smidl_semisupervised/</link>
+      <pubDate>Fri, 04 May 2018 21:38:12 -0400</pubDate>
+      
+      <guid>/publication/2018_smidl_semisupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The fifth &#39;CHiME&#39; Speech Separation and Recognition Challenge: Dataset, task and baselines</title>
+      <link>/publication/2018_barker_fifth/</link>
+      <pubDate>Fri, 04 May 2018 21:16:12 -0400</pubDate>
+      
+      <guid>/publication/2018_barker_fifth/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -148,30 +204,6 @@ month={March},}
       
       <guid>/publication/2016_burget_building/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>New Release of Mixer-6: Improved Validity for Phonetic Study of Speaker Variation and Identification</title>
-      <link>/publication/2016_chodroff_new/</link>
-      <pubDate>Thu, 05 May 2016 20:35:46 -0400</pubDate>
-      
-      <guid>/publication/2016_chodroff_new/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;@InProceedings{CHODROFF16.1060,
-  author = {Eleanor Chodroff and Matthew Maciejewski and Jan Trmal and Sanjeev Khudanpur and John Godfrey},
-  title = {New release of Mixer-6: Improved validity for phonetic study of speaker variation and identification},
-  booktitle = {Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)},
-  year = {2016},
-  month = {may},
-  date = {23-28},
-  location = {Portorož, Slovenia},
-  editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Sara Goggi and Marko Grobelnik and Bente Maegaard and Joseph Mariani and Helene Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
-  publisher = {European Language Resources Association (ELRA)},
-  address = {Paris, France},
-  isbn = {978-2-9517408-9-1},
-  language = {english}
- }
-&lt;/code&gt;&lt;/pre&gt;
-</description>
     </item>
     
   </channel>
