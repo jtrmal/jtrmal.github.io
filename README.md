@@ -1,1 +1,0 @@
-# jtrmal.github.io
