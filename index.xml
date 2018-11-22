@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SLTU 18: TUTORIAL ON BUILDING AUTOMATIC SPEECH RECOGNITION SYSTEM WITH KALDI TOOLKIT</title>
+      <link>/talk/2018_sltu_tutorial/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2018_sltu_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recognizing ATC English and Airbus ATC challenge</title>
       <link>/talk/2018_spice_workshop/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
@@ -182,25 +191,6 @@ month={March},}
   pages={2934--2938},
   doi={10.21437/Interspeech.2017-1087},
   url={http://dx.doi.org/10.21437/Interspeech.2017-1087}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Kaldi OpenKWS System: Improving Low Resource Keyword Search</title>
-      <link>/publication/2017_trmal_kaldi/</link>
-      <pubDate>Fri, 05 May 2017 20:02:05 -0400</pubDate>
-      
-      <guid>/publication/2017_trmal_kaldi/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;@inproceedings{Trmal2017,
-  author={Jan Trmal and Matthew Wiesner and Vijayaditya Peddinti and Xiaohui Zhang and Pegah Ghahremani and Yiming Wang and Vimal Manohar and Hainan Xu and Daniel Povey and Sanjeev Khudanpur},
-  title={The Kaldi OpenKWS System: Improving Low Resource Keyword Search},
-  year=2017,
-  booktitle={Proc. Interspeech 2017},
-  pages={3597--3601},
-  doi={10.21437/Interspeech.2017-601},
-  url={http://dx.doi.org/10.21437/Interspeech.2017-601}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
